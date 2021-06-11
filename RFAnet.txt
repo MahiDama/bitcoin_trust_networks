@@ -1,0 +1,27 @@
+Mahotsavy Dama
+md4855@nyu.edu
+1st, April, 2021
+*********************************************************************
+Analysis of RFA network 
+
+Number of individuals, S: 7988
+Number of transactions, L: 102872
+L/S: 12.878317476214322
+Connectance of the network, L/S^2: 0.0016122079965215726
+
+Proportion of Basal species or Sellers,B: 0.5762393590385578
+Proportion of Intermediate species,I: 0.29656985478217324
+Proportion of Top species or Buyers, T: 0.1271907861792689
+
+links in BT: 0.049478964149622835
+links in BI: 0.31279648495217355
+links in II: 0.5479430748891827
+links in IT: 0.08978147600902092
+
+Ratio of Sellers to buyers: 2.0596750369276218
+
+Insights: 
+
+This is a surprising network as all the previous ones have higher buyers than sellers , where as the number of sellers is higher comparatively. 
+
+The connectance of this network is similar to the food webs Ythan example given. It is interesting to draw parallels between the food webs and financial institutions. 

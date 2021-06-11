@@ -1,0 +1,42 @@
+Mahotsavy Dama
+md4855@nyu.edu
+1st, April, 2021
+*********************************************************************
+Analysis of BTCAlpha network
+
+Number of individuals, S: 2989
+Number of transactions, L: 22772
+L/S: 7.618601538976246
+Connectance of the network, L/S^2: 0.002548879738700651
+
+Proportion of Basal species or Sellers,B: 0.007360321177651389
+Proportion of Intermediate species,I: 0.9016393442622951
+Proportion of Top species or Buyers, T: 0.09100033456005353
+
+links in BT: 0.0003952222027050764
+links in BI: 0.0011417530300368874
+links in II: 0.9750131740734235
+links in IT: 0.023449850693834533
+
+Ratio of Sellers to buyers: 0.9157398045163465
+
+Problem statement:
+
+The data set is taken from the Stanford data. The nodes are the transactions between node_a and node_b. The third node is the rating gives by node_a to node_b. 
+
+I chose this data set because, this can be compared to the food webs set in many ways. I assumed the sellers to be basal species as they are not taking in anything from the network except offering back. The buyers can be assumed to be the top species, as they survive on the sellers. 
+
+The intermediate species is the ones who do both the transactions. Additionally the network from this data has been taken can be thought of as a habitat similar to food webs and the interaction in them. 
+
+Interestingly enough the data sets have given the results showing various behaviours. 
+
+Insights:
+
+Since this is a Bitcoin trust network the answers represent the insights about the community of the platform called BTC Alpha. 
+
+I can infer from the strongly connected components that the network is intricate, which can also be inferred by the connetance score. 
+
+This network has higher number of buyers than sellers, which explains the increasing demand for bitcoin and hence the prices. 
+
+This was a good learning opportunity which has shown the workings for both food habitat and the financial networks. 
+  

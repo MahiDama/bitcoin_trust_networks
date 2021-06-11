@@ -1,0 +1,27 @@
+Mahotsavy Dama
+md4855@nyu.edu
+1st, April, 2021
+*********************************************************************
+Analysis of OTC network
+
+Number of individuals, S: 4365
+Number of transactions, L: 32943
+L/S: 7.547079037800687
+Connectance of the network, L/S^2: 0.0017289986340895045
+
+Proportion of Basal species or Sellers,B: 0.003665521191294387
+Proportion of Intermediate species,I: 0.8870561282932417
+Proportion of Top species or Buyers, T: 0.10927835051546392
+
+links in BT: 0.00018213277479282397
+links in BI: 0.0010320857238260025
+links in II: 0.9628449139422639
+links in IT: 0.03594086755911726
+
+Ratio of Sellers to buyers: 0.8939986203724994
+
+Insights:
+
+This network has a disproportionately higher number of buyers than sellers, making this an unstable network. This could cause the increase in prices and a scarcity. 
+
+This is especially evident from the value of links between BT which is very low compared to any other links. 
